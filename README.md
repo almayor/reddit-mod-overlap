@@ -13,7 +13,7 @@ Tools used: Python and PRAW library for data collection, Pandas for data analysi
 Source: Data collected myself on 03 Feb 2024.
 
 ### r/Palestine
-![r/Palestine](results/mods-r-palestine.png)
+![r/Palestine](results/mods-r-palestine-by-level.png)
 
 ### r/Israel
 ![r/Israel](results/mods-r-israel.png)
