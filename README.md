@@ -16,4 +16,4 @@ Source: Data collected myself on 03 Feb 2024.
 ![r/Palestine](results/mods-r-palestine-by-level.png)
 
 ### r/Israel
-![r/Israel](results/mods-r-israel.png)
+![r/Israel](results/mods-r-israel-by-level.png)
