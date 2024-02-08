@@ -1,6 +1,6 @@
 ## Analysing mod team overlap: r/Palestine and r/Israel
 
-**See [here](https://github.com/almayor/reddit-mods-dataset) for a complete dataset!**
+**See [here](https://github.com/almayor/reddit-mods-dataset) for the complete dataset!**
 
 Notes:
 * Each edge is between a pair of subs that have a mod in common.
@@ -18,4 +18,6 @@ Source: Data collected myself on 03 Feb 2024.
 ![r/Palestine](results/mods-r-palestine-by-level.png)
 
 ### r/Israel
-![r/Israel](results/mods-r-israel-by-level.png)
+<div>
+<img src="results/mods-r-israel-by-level.png" width="300"/>
+</div>
