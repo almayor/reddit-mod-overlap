@@ -1,5 +1,7 @@
 ## Analysing mod team overlap: r/Palestine and r/Israel
 
+**See [here](https://github.com/almayor/reddit-mods-dataset) for a complete dataset!**
+
 Notes:
 * Each edge is between a pair of subs that have a mod in common.
 * The more mods there are in common, the thicker the edge.
